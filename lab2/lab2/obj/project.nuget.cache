@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sOQFgmEWzWp9nKM6WT5hS3AYFcaqL2ub5k3iLn4gM49ohANUOeDxbofGtLsJZvb60desaywX53VlrVzsl2ts2Q==",
+  "success": true,
+  "projectFilePath": "A:\\programming\\c#\\lab2\\lab2\\lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toilet\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}
